@@ -16,6 +16,8 @@ jobs:
         run: echo "what is your name"
       - name: Show the date
         run: date
+      - name: show sytem hostname
+        run: hostname
 
 
 
