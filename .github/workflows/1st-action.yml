@@ -23,7 +23,6 @@ jobs:
             ls
             whoami
             touch 3.txt
-            cal
-
+            df -h
 
 
