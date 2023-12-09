@@ -21,9 +21,9 @@ jobs:
       - name: Running muti line commands
         run: |
             ls
-            whoami
-            touch 3.txt
-            df -h
+   #         whoami
+    #        touch 3.txt
+     #       df -h
             
 
 
