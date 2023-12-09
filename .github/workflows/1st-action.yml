@@ -14,6 +14,8 @@ jobs:
         run: echo "Goodbye"
       - name: Print id
         run: echo "what is your name"
+      - name: Show the date
+        run: date
 
 
 
