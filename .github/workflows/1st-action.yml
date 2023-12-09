@@ -8,6 +8,8 @@ jobs:
         run: echo "hello World"
       - name: Print goodbye 
         run: echo "Goodbye"
+      - name: Print id
+        run: echo "what is your name"
 
 
 
