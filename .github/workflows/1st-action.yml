@@ -18,6 +18,11 @@ jobs:
         run: date
       - name: show sytem hostname
         run: hostname
+      - name: Running muti line commands
+        run: |
+            ls
+            whoami
+            touch 3.txt
 
 
 
