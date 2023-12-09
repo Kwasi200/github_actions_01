@@ -24,6 +24,6 @@ jobs:
             whoami
             touch 3.txt
             df -h
-            free -f
+            
 
 
