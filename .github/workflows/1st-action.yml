@@ -19,8 +19,9 @@ jobs:
       - name: show sytem hostname
         run: hostname
       - name: Running muti line commands
-        run: |
-            ls
+        run: free -h
+
+        #    ls
    #         whoami
     #        touch 3.txt
      #       df -h
